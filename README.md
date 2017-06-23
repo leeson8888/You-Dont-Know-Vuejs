@@ -12,6 +12,7 @@
 # 基础篇
 基础篇主要是官方文档的细化
 
+[01:Vue.js的构建与安装](https://github.com/leeson8888/You-Dont-Know-Vuejs/blob/master/basic/01:Vue.js%E7%9A%84%E6%9E%84%E5%BB%BA%E4%B8%8E%E5%AE%89%E8%A3%85.md)
 
 # 进阶篇
 进阶篇主要分析vuejs的架构与设计
