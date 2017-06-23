@@ -1,7 +1,7 @@
 # 本节目录
 
+* 构建vue.js
 * 安装vue.js
-* 起步vue.js
 
 
 # 安装vue.js
